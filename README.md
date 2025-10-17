@@ -463,7 +463,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output screen shots on serial monitor   :
- 
+
+ ![Screenshot 2025-10-17 at 09 30 50_2886d013](https://github.com/user-attachments/assets/2fa8b3e7-e4ea-4d0a-82fe-725603fa967a)
+
  <img width="1919" height="1017" alt="Screenshot 2025-10-17 093733" src="https://github.com/user-attachments/assets/46e91196-4112-4b7e-92aa-da3e0d3de6dc" />
 
  
